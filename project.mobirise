@@ -37,6 +37,13 @@
     "versionFirst": "5.0.29",
     "siteFonts": [],
     "imageResize": true,
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
     "uniqCompNum": 20,
     "versionPublish": "5.0.29"
   },
@@ -44,8 +51,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Padagogue - SAT/ACT coaching Gurgaon",
+        "meta_descr": "70 hrs coaching, Free sessions, Intensive practice tests",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""

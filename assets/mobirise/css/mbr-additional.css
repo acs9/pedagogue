@@ -1351,6 +1351,11 @@ a {
 .cid-tJZlxHQstL .social-row .soc-item:hover .mbr-iconfont {
   color: #000000;
 }
+.cid-tJZlxHQstL .card-text,
+.cid-tJZlxHQstL .mbr-section-btn,
+.cid-tJZlxHQstL .social-row {
+  text-align: left;
+}
 .cid-tK58515Oij {
   padding-top: 6rem;
   padding-bottom: 2rem;
